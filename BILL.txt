@@ -1,0 +1,6 @@
+Client: Andreea Varga
+Adresa: Hunedoara
+Produs: creioane
+Pret: 0.5
+Cantitate: 90
+Pret total: 45.0
